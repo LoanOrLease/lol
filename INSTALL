@@ -1,0 +1,9 @@
+Building LoanOrLease
+
+See doc/readme-qt.rst for instructions on building LoanOrLease QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LoanOrLease.
+
+See doc/build-*.txt for instructions on building loanorleased,
+the intended-for-services, no-graphical-interface, reference
+implementation of LoanOrLease.
