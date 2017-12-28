@@ -4,12 +4,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About LoanOrLease</source>
-        <translation>ブラックコインについて</translation>
+        <translation>LoanOrLeaseについて</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;LoanOrLease&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;ブラックコイン&lt;/b&gt;バージョン</translation>
+        <translation>&lt;b&gt;LoanOrLease&lt;/b&gt;バージョン</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -66,7 +66,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-46"/>
         <source>These are your LoanOrLease addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>これは支払いを受けるためのブラックコインのアドレス。支払い管理をするのため、各送信者へ、それぞれのアドレスを伝えたほうがいいです。</translation>
+        <translation>これは支払いを受けるためのLoanOrLeaseのアドレス。支払い管理のため、各送信者へそれぞれのアドレスを伝えましょう。</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,12 +81,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a LoanOrLease address</source>
-        <translation>所有権の証明するためのメサッジを署名する。</translation>
+        <translation>所有権の証明するためメッセージを署名する。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation>メサッジを署名する。</translation>
+        <translation>メッセージを署名する。</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -96,7 +96,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-14"/>
         <source>Verify a message to ensure it was signed with a specified LoanOrLease address</source>
-        <translation>受け取ったメッセージの署名を確保のため、メッセージを確認する。</translation>
+        <translation>受け取ったメッセージの署名を確認する。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -162,22 +162,22 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>パスフレーズ ダイアログ</translation>
+        <translation>パスワード ダイアログ</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>パスフレーズを入力</translation>
+        <translation>パスワードを入力</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation>新しいパスフレーズ</translation>
+        <translation>新しいパスワード</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>新しいパスフレーズをもう一度</translation>
+        <translation>新しいパスワードをもう一度</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -187,12 +187,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+3"/>
         <source>For staking only</source>
-        <translation>賭けるのみ</translation>
+        <translation>ステーキングのみ</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>ウォレットの新しいパスフレーズを入力してください。&lt;br/&gt;&lt;b&gt;8個以上の単語か10個以上のランダムな文字&lt;/b&gt;を使ってください。</translation>
+        <translation>ウォレットの新しいパスワードを入力してください。&lt;br/&gt;&lt;b&gt;8個以上の単語か10個以上のランダムな文字&lt;/b&gt;を使ってください。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -202,7 +202,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>この操作はウォレットをアンロックするためにパスフレーズが必要です。</translation>
+        <translation>この操作はウォレットをアンロックするためにパスワードが必要です。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -212,7 +212,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>この操作はウォレットの暗号化解除のためにパスフレーズが必要です。</translation>
+        <translation>この操作はウォレットの暗号化解除のためにパスワードが必要です。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -222,12 +222,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>パスフレーズの変更</translation>
+        <translation>パスワードの変更</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>新旧両方のパスフレーズを入力してください。</translation>
+        <translation>新旧両方のパスワードを入力してください。</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -264,7 +264,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-58"/>
         <source>LoanOrLease will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>ただいま、暗号化手順を完成するため、ブラックコインQTは閉じます。尚、ウォレットを暗号化をされたにしても、PCのウイルスから盗難防止の報償できないことを、ご理解をお願い足します。</translation>
+        <translation>ただいま、暗号化手順を完成するため、LoanOrLeaseQTは閉じます。尚、ウォレットを暗号化をされたにしても、PCのウイルスから盗難防止の報償できないことを、ご理解をお願い足します。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -283,7 +283,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>パスフレーズが同じではありません。</translation>
+        <translation>パスワードが同じではありません。</translation>
     </message>
     <message>
         <location line="-38"/>
@@ -295,7 +295,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>ウォレットの暗号化解除のパスフレーズが正しくありません。</translation>
+        <translation>ウォレットの暗号化解除のパスワードが正しくありません。</translation>
     </message>
     <message>
         <location line="-20"/>
@@ -305,7 +305,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>ウォレットのパスフレーズの変更が成功しました。</translation>
+        <translation>ウォレットのパスワードの変更が成功しました。</translation>
     </message>
 </context>
 <context>
@@ -378,7 +378,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+4"/>
         <source>Show information about LoanOrLease</source>
-        <translation>ブラックコインの情報を表示</translation>
+        <translation>LoanOrLeaseの情報を表示</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -408,7 +408,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>パスフレーズの変更... (&amp;C)</translation>
+        <translation>パスワードの変更... (&amp;C)</translation>
     </message>
     <message numerus="yes">
         <location line="+250"/>
@@ -428,12 +428,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-62"/>
         <source>Send coins to a LoanOrLease address</source>
-        <translation>ブラックコインアドレスへコインを送る</translation>
+        <translation>LoanOrLeaseアドレスへコインを送る</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Modify configuration options for LoanOrLease</source>
-        <translation>ブラックコインの設定を変化する</translation>
+        <translation>LoanOrLeaseの設定を変化する</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -453,7 +453,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>ウォレット暗号化用パスフレーズの変更</translation>
+        <translation>ウォレット暗号化用パスワードの変更</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -473,7 +473,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-200"/>
         <source>LoanOrLease</source>
-        <translation>ブラックコイン</translation>
+        <translation>LoanOrLease</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,7 +483,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+178"/>
         <source>&amp;About LoanOrLease</source>
-        <translation>ブラックコインについて</translation>
+        <translation>LoanOrLeaseについて</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,12 +540,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <location line="+0"/>
         <location line="+60"/>
         <source>LoanOrLease client</source>
-        <translation>ブラックコインクライアントソフトウェア</translation>
+        <translation>LoanOrLeaseクライアントソフトウェア</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
         <source>%n active connection(s) to LoanOrLease network</source>
-        <translation><numerusform>ブラックコインネットワークへの%n アクティブな接続</numerusform></translation>
+        <translation><numerusform>LoanOrLeaseネットワークへの%n アクティブな接続</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -555,27 +555,27 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+413"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation>賭けている。&lt;br&gt;重さは%1&lt;br&gt;ネットワークの重さは%2&lt;br&gt;報酬をもらう時間の推測は%3</translation>
+        <translation>ステーキングしている。&lt;br&gt;重さは%1&lt;br&gt;ネットワークの重さは%2&lt;br&gt;報酬をもらう時間の推測は%3</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation>ウォレットをロックされたため、賭けていません</translation>
+        <translation>ウォレットをロックされたため、ステーキングしていません</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is offline</source>
-        <translation>ウォレットはオフラインで、賭けていません</translation>
+        <translation>ウォレットはオフラインで、ステーキングしていません</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is syncing</source>
-        <translation>ウォレットは同期最中ため、賭けていません。</translation>
+        <translation>ウォレットは同期最中ため、ステーキングしていません。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation>コインはまだ成長できていないため、賭けていません。</translation>
+        <translation>コインはまだ成長できていないため、ステーキングしていません。</translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
@@ -659,7 +659,7 @@ Address: %4
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid LoanOrLease address or malformed URI parameters.</source>
-        <translation>URIのパーズができませんでした！。原因は無効なブラックコインアドレスか不正なURIパラメータ。</translation>
+        <translation>URIの解析ができませんでした！。原因は無効なLoanOrLeaseアドレスか不正なURIパラメータ。</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -714,12 +714,12 @@ Address: %4
     <message>
         <location line="+18"/>
         <source>Not staking</source>
-        <translation>賭けていません</translation>
+        <translation>ステーキングしていません</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
         <source>A fatal error occurred. LoanOrLease can no longer continue safely and will quit.</source>
-        <translation>致命的エラー。安全に続きができないため、バラックコインQTは閉じます。</translation>
+        <translation>致命的エラー。安全に続きができないため、LoanOrLeaseQTは閉じます。</translation>
     </message>
 </context>
 <context>
@@ -963,7 +963,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+1"/>
         <source>This label turns red, if any recipient receives an amount smaller than %1.
 
- This means a fee of at least %2 is required. 
+ This means a fee of at least %2 is required.
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
         <translation>任意の受信者は%1より少ない額をもらったばい、このラベルは赤くなる。
@@ -1053,7 +1053,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid LoanOrLease address.</source>
-        <translation>入力されたアドレス &quot;%1&quot; 、有効なブラックコインアドレスではない。</translation>
+        <translation>入力されたアドレス &quot;%1&quot; 、有効なLoanOrLeaseアドレスではない。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,7 +1072,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
         <source>LoanOrLease-Qt</source>
-        <translation>ブラックコインQT</translation>
+        <translation>LoanOrLeaseQT</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1135,7 +1135,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation>貯金は賭ける参加しないため、いつでも支出できる。</translation>
+        <translation>貯金はステーキング参加しないため、いつでも支出できる。</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1145,12 +1145,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Automatically start LoanOrLease after logging in to the system.</source>
-        <translation>システムのログイン次第、自動的にブラックコインをスタート。</translation>
+        <translation>システムのログイン次第、自動的にLoanOrLeaseをスタート。</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start LoanOrLease on system login</source>
-        <translation>システムログイン次第、ブラックコインをスタート</translation>
+        <translation>システムログイン次第、LoanOrLeaseをスタート</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,7 +1170,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Automatically open the LoanOrLease client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動的にルーターでブラックコインクライエントソフトウェアのポートを開く。ルーターはUPnPのサポートあり、UPnPを有効にするならできる。</translation>
+        <translation>自動的にルーターでLoanOrLeaseクライエントソフトウェアのポートを開く。ルーターはUPnPのサポートあり、UPnPを有効にするならできる。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,7 +1180,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Connect to the LoanOrLease network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>ブラックコインのネットワークへSOCKSプロキシで接続する（例：TORで接続するばい）</translation>
+        <translation>LoanOrLeaseのネットワークへSOCKSプロキシで接続する（例：TORで接続するばい）</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1270,7 +1270,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+9"/>
         <source>Whether to show LoanOrLease addresses in the transaction list or not.</source>
-        <translation>処理の歴史でブラックコインのアドレスを表示する／しない。</translation>
+        <translation>処理の歴史でLoanOrLeaseのアドレスを表示する／しない。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,7 +1317,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting LoanOrLease.</source>
-        <translation>この設定はブラックコインをリスタートした後に有効する。</translation>
+        <translation>この設定はLoanOrLeaseをリスタートした後に有効する。</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,12 +1336,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+33"/>
         <location line="+231"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LoanOrLease network after a connection is established, but this process has not completed yet.</source>
-        <translation>表示されている情報は時間遅れている。接続したら、ウォレットは自動的にブラックコインネットワークと同期しますが過程は完了してません。</translation>
+        <translation>表示されている情報は時間遅れている。接続したら、ウォレットは自動的にLoanOrLeaseネットワークと同期しますが過程は完了してません。</translation>
     </message>
     <message>
         <location line="-160"/>
         <source>Stake:</source>
-        <translation>賭け金：</translation>
+        <translation>ステーク利用：</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1396,7 +1396,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-29"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation>賭けているコインの合計で、まだ現在の残高に含まれていない。</translation>
+        <translation>ステーキングしているコインの合計で、まだ現在の残高に含まれていない。</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+113"/>
@@ -1552,7 +1552,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Show the LoanOrLease-Qt help message to get a list with possible LoanOrLease command-line options.</source>
-        <translation>ブラックコインQTのコマンドラインのヘルプ情報を表示する。</translation>
+        <translation>LoanOrLeaseQTのコマンドラインのヘルプ情報を表示する。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,12 +1572,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-104"/>
         <source>LoanOrLease - Debug window</source>
-        <translation>ブラックコイン：デバッグウインドウ</translation>
+        <translation>LoanOrLease：デバッグウインドウ</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>LoanOrLease Core</source>
-        <translation>ブラックコインコア</translation>
+        <translation>LoanOrLeaseコア</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,7 +1597,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
         <source>Welcome to the LoanOrLease RPC console.</source>
-        <translation>ブラックコインRPCコンソールへようこそ。</translation>
+        <translation>LoanOrLeaseRPCコンソールへようこそ。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,7 +1756,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
         <source>Enter a LoanOrLease address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>ブラックコインアドレスの入力 (例；B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>LoanOrLeaseアドレスの入力 (例；B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,7 +1856,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+251"/>
         <source>WARNING: Invalid LoanOrLease address</source>
-        <translation>警告：無効なブラックコインアドレス</translation>
+        <translation>警告：無効なLoanOrLeaseアドレス</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,7 +1930,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a LoanOrLease address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>ブラックコインアドレスの入力 (例；B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>LoanOrLeaseアドレスの入力 (例；B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,7 +1991,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this LoanOrLease address</source>
-        <translation>所有権の証明するためこのメサッジを署名する</translation>
+        <translation>所有権の証明するためこのメッセージを署名する</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,7 +2034,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a LoanOrLease address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>ブラックコインのアドレスを入力(例：B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <translation>LoanOrLeaseのアドレスを入力(例：B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,7 +2044,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Enter LoanOrLease signature</source>
-        <translation>ブラックコインのデジタル署名を入力</translation>
+        <translation>LoanOrLeaseのデジタル署名を入力</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,7 +2615,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
         <source>LoanOrLease version</source>
-        <translation>ブラックコインバージョン</translation>
+        <translation>LoanOrLeaseバージョン</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2700,7 +2700,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation>褒奨金をもらうためと、ブラックコインネットワークをサッポートするために、コインを賭ける(デファルト：1)</translation>
+        <translation>褒奨金をもらうためと、LoanOrLeaseネットワークをサッポートするために、コインをステーキング(デファルト：1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2800,7 +2800,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+61"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LoanOrLease will not work properly.</source>
-        <translation> 警告：コンピュータの日付と時間を調べてください。時間ずらしかったばい、ブラックコイン QTは正しく行動しない。</translation>
+        <translation> 警告：コンピュータの日付と時間を調べてください。時間ずらしかったばい、LoanOrLease QTは正しく行動しない。</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 ユーザ名とパスワードは同じであってはなりません。
 ファイルは存在しないばいは、所有者が読み取り可能な専用のファイルを作成してください。
 問題のことを知らせるために、alertnotifyの設定を有効にしたほうがいいです。
-例：alertnotify=echo %%s | mail -s &quot;ブラックコイン警告&quot; admin@foo.com
+例：alertnotify=echo %%s | mail -s &quot;LoanOrLease警告&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3112,7 +3112,7 @@ rpcpassword=%s
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation>エラー：アンロックされたウォレットは賭けるためだけで、処理を作られない。</translation>
+        <translation>エラー：アンロックされたウォレットはステーキングためだけで、処理を作られない。</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -3132,12 +3132,12 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Cannot obtain a lock on data directory %s.  LoanOrLease is probably already running.</source>
-        <translation>%sディレクトリにをロックオンできない。ブラックコインQTは、もう発行してるでしょう。</translation>
+        <translation>%sディレクトリにをロックオンできない。LoanOrLeaseQTは、もう発行してるでしょう。</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>LoanOrLease</source>
-        <translation>ブラックコイン</translation>
+        <translation>LoanOrLease</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,12 +3172,12 @@ rpcpassword=%s
     <message>
         <location line="+4"/>
         <source>Error loading wallet.dat: Wallet requires newer version of LoanOrLease</source>
-        <translation>wallet.dat 読み込みエラー: 　ブラックコインQTの最新バージョンが必要です</translation>
+        <translation>wallet.dat 読み込みエラー: 　LoanOrLeaseQTの最新バージョンが必要です</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallet needed to be rewritten: restart LoanOrLease to complete</source>
-        <translation>ウォレットのデータをリライトしなければならい：ブラックコインQTをリスタートしてください</translation>
+        <translation>ウォレットのデータをリライトしなければならい：LoanOrLeaseQTをリスタートしてください</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,7 +3247,7 @@ rpcpassword=%s
     <message>
         <location line="+122"/>
         <source>Unable to bind to %s on this computer. LoanOrLease is probably already running.</source>
-        <translation>このコンピューターで%sに結ぶことができなかった。ブラックコインQTは、もう発行してるでしょう。</translation>
+        <translation>このコンピューターで%sに結ぶことができなかった。LoanOrLeaseQTは、もう発行してるでしょう。</translation>
     </message>
     <message>
         <location line="-97"/>
