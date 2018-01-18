@@ -76,7 +76,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>QRコードを表す</translation>
+        <translation>QRコードを表示する</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -182,7 +182,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+33"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation>ユーザアカウントはハッキングされたばい、瑣末のsendmoney無効にする。機密保護には効果はない。</translation>
+        <translation>ユーザアカウントはハッキングされた場合、瑣末のsendmoney無効にする。機密保護には効果はない。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,12 +237,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>ご注意：暗号化したウォレットのパスワードを忘れたばい、b&gt;すべてのコインを失う&lt;/b&gt;!</translation>
+        <translation>ご注意：暗号化したウォレットのパスワードを忘れた場合、b&gt;すべてのコインを失う&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>ウォレットを暗号化、よろしいですか?</translation>
+        <translation>ウォレットを暗号化してもよろしいですか?</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -264,7 +264,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-58"/>
         <source>LoanOrLease will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>ただいま、暗号化手順を完成するため、LoanOrLeaseQTは閉じます。尚、ウォレットを暗号化をされたにしても、PCのウイルスから盗難防止の報償できないことを、ご理解をお願い足します。</translation>
+        <translation>ただいま、暗号化手順を完成するため、LoanOrLeaseQTは閉じます。尚、ウォレットを暗号化をされたにしても、PCのウイルスから盗難防止の保証できないことを、ご理解をお願いいたします。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -443,7 +443,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="-14"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation>ウォレットを暗号化か暗号化を解除する</translation>
+        <translation>ウォレットを暗号化、または暗号化を解除する</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -570,7 +570,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is syncing</source>
-        <translation>ウォレットは同期最中ため、ステーキングしていません。</translation>
+        <translation>ウォレットが同期中のため、ステーキングしていません。</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -620,7 +620,7 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>この処理は大きさの制限を超えている。%1料金を払ったばい、通信可能性です。料金は手続きをするノードへ支払って、ネットワークのサッポートになります。料金を払いますか。</translation>
+        <translation>この処理は大きさの制限を超えている。%1料金を払った場合、通信可能性です。料金は手続きをするノードへ支払って、ネットワークのサポートになります。料金を払いますか。</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -805,7 +805,7 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>Label</source>
-        <translation>レベル</translation>
+        <translation>ラベル</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -881,7 +881,7 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>アウトプット低いをコピー</translation>
+        <translation>低アウトプットをコピー</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -966,7 +966,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
  This means a fee of at least %2 is required.
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation>任意の受信者は%1より少ない額をもらったばい、このラベルは赤くなる。
+        <translation>任意の受信者は%1より少ない額をもらった場合、このラベルは赤くなる。
 
 少なくとも%2の料金は必要となります。
 
@@ -977,7 +977,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation>このラベルが赤くなたら、お釣りは%1より少ない。
+        <translation>このラベルが赤くなったら、お釣りは%1より少ない。
 
 少なくとも%2の料金は必要となります。</translation>
     </message>
@@ -1180,7 +1180,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Connect to the LoanOrLease network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>LoanOrLeaseのネットワークへSOCKSプロキシで接続する（例：TORで接続するばい）</translation>
+        <translation>LoanOrLeaseのネットワークへSOCKSプロキシで接続する（例：TORで接続する場合）</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1285,7 +1285,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>コインコントロールの設定を表示する(有識者のみ！)</translation>
+        <translation>コインコントロールの設定を表示する(専門家のみ！)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1336,7 +1336,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+33"/>
         <location line="+231"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the LoanOrLease network after a connection is established, but this process has not completed yet.</source>
-        <translation>表示されている情報は時間遅れている。接続したら、ウォレットは自動的にLoanOrLeaseネットワークと同期しますが過程は完了してません。</translation>
+        <translation>表示されている情報は時間が遅れている。接続したら、ウォレットは自動的にLoanOrLeaseネットワークと同期しますが過程は完了してません。</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1425,7 +1425,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation>レベル</translation>
+        <translation>ラベル</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1450,7 +1450,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>URIは長過ぎて、ラベル文字の長さを短くしてください。</translation>
+        <translation>URIが長過ぎます。ラベルやメッセージを短くしてください。</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -1587,7 +1587,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Open the LoanOrLease debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>現行のディレクトリからデバッグログファイルを開く。大きなファイルのばい、少し時間かかる。</translation>
+        <translation>現行のディレクトリからデバッグログファイルを開く。大きなファイルの場合、少し時間がかかる。</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1676,7 +1676,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-191"/>
         <source>Priority:</source>
-        <translation>優先:</translation>
+        <translation>優先度:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1691,7 +1691,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation>アウトプット低い:</translation>
+        <translation>低アウトプット:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1726,7 +1726,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation>全分の処理欄を削除する</translation>
+        <translation>すべての処理欄を削除する</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1791,7 +1791,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>アウトプット低いをコピー</translation>
+        <translation>低アウトプットをコピー</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1851,7 +1851,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>エラー：処理は拒否されました。ウォレットのコインをすでに費やした可能性で、wallet.datのコピーで費やしたが、現行のwallet.datとはアップデートされていない。</translation>
+        <translation>エラー：処理は拒否されました。ウォレットのコインをすでに費やした可能性で、wallet.datのコピーで費やしたが、現行のwallet.datはアップデートされていない。</translation>
     </message>
     <message>
         <location line="+251"/>
@@ -2249,7 +2249,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 10 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>コインを費やす前に発現されたコインは10ブロック間成熟しなければなりません。このブロックを発現させたときに、ブロックチェインに足すためにネットワークへ放送しました。ブロックチェインに追加失敗したばい、レベルは「受け入られていない」に変わって、費やせられない状況になります。自分のノードと他のノードと同時に新しいブロックを発現させたときに、時折に起こること。</translation>
+        <translation>コインを費やす前に発現されたコインは10ブロック間成熟しなければなりません。このブロックを発現させたときに、ブロックチェインに足すためにネットワークへ放送しました。ブロックチェインに追加失敗した場合、レベルは「受け入られていない」に変わって、費やせられない状況になります。自分のノードと他のノードと同時に新しいブロックを発現させたときに、時折に起こること。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2320,7 +2320,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation>Helbidea</translation>
+        <translation>アドレス</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2569,7 +2569,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Address</source>
-        <translation>Helbidea</translation>
+        <translation>アドレス</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,7 +2645,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Specify configuration file (default: loanorlease.conf)</source>
-        <translation>設定ファイルを特定する (デファルト: loanorlease.conf)</translation>
+        <translation>設定ファイルを特定する (デフォルト: loanorlease.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2670,12 +2670,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation>メガバイトでのデータベースのログザイズの大きさの設定(デファルト：100)</translation>
+        <translation>メガバイトでのデータベースのログザイズの大きさの設定(デフォルト：100)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Listen for connections on &lt;port&gt; (default: 26647 or testnet: 36647)</source>
-        <translation>&lt;port&gt; で 接続をリスン (デフォルト: 26647かtestnet は 36647)</translation>
+        <translation>&lt;port&gt; で 接続をリッスン (デフォルト: 26647かtestnet は 36647)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2695,12 +2695,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation>アドレスに結ぶ。IPv6のばい、[host]:port 表記法を使ってください。</translation>
+        <translation>アドレスにバインドする。IPv6の場合、[host]:port 表記法を使ってください。</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation>褒奨金をもらうためと、LoanOrLeaseネットワークをサッポートするために、コインをステーキング(デファルト：1)</translation>
+        <translation>褒奨金をもらうためと、LoanOrLeaseネットワークをサポートするために、コインをステーキング(デフォルト：1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2715,12 +2715,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-44"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation>IPv4 でリスンする RPC ポート %u の設定中にエラーが発生しました: %s</translation>
+        <translation>IPv4 でリッスンする RPC ポート %u の設定中にエラーが発生しました: %s</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Detach block and address databases. Increases shutdown time (default: 0)</source>
-        <translation>ブロックとアドレスのデータベースを切り離す。この設定はシャットダウンの時間を伸ばさせます。(デファルト：0)</translation>
+        <translation>ブロックとアドレスのデータベースを切り離す。この設定はシャットダウンの時間を伸ばさせます。(デフォルト：0)</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2735,7 +2735,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-87"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 26648 or testnet: 36648)</source>
-        <translation>&lt;port&gt; で JSON-RPC 接続をリスン (デフォルト: 26648かtestnet は 36648)</translation>
+        <translation>&lt;port&gt; で JSON-RPC 接続をリッスン (デフォルト: 26648かtestnet は 36648)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2780,17 +2780,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-38"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>IPv6 でリスンする RPC ポート %u の設定中にエラーが発生したので IPv4 に切り替えます: %s</translation>
+        <translation>IPv6 でリッスンする RPC ポート %u の設定中にエラーが発生したので IPv4 に切り替えます: %s</translation>
     </message>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation>データベース%sを初期化するにエラーになりました。直すためにディレクトリをバックアップして、そしてwallet.dat意外のファイルを取り除いてください。</translation>
+        <translation>データベース%sを初期化するにエラーになりました。直すためにディレクトリをバックアップして、そしてwallet.dat以外のファイルを取り除いてください。</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation>バイトで、最優先、低料金の処理の最大サイズの設定(デファルト：27000)</translation>
+        <translation>バイトで、最優先、低料金の処理の最大サイズの設定(デフォルト：27000)</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -2800,7 +2800,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+61"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong LoanOrLease will not work properly.</source>
-        <translation> 警告：コンピュータの日付と時間を調べてください。時間ずらしかったばい、LoanOrLease QTは正しく行動しない。</translation>
+        <translation> 警告：コンピュータの日付と時間を調べてください。時間がずれている場合、LoanOrLease QTは正しく動作しません。</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2810,7 +2810,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>警告: wallet.dat のデータはの汚染で、でデータを復旧しました！ オリジナルの wallet.dat は wallet.{timestamp}.bak として %s に保存されました; もしもあなたの残高や処理が正しくないばい、バックアップから復元してください。</translation>
+        <translation>警告: wallet.dat のデータは汚染されていて、データを復旧しました！ オリジナルの wallet.dat は wallet.{timestamp}.bak として %s に保存されました; もしもあなたの残高や処理が正しくない場合、バックアップから復元してください。</translation>
     </message>
     <message>
         <location line="-30"/>
@@ -2830,22 +2830,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>自分の IP アドレスを発見 (初期値:  リスン中と -externalip を使用していない場合は1)</translation>
+        <translation>自分の IP アドレスを発見 (初期値:  リッスン中と -externalip を使用していない場合は1)</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>ポートのリスンに失敗しました。必要であれば -listen=0 を使用してください。</translation>
+        <translation>ポートのリッスンに失敗しました。必要であれば -listen=0 を使用してください。</translation>
     </message>
     <message>
         <location line="-90"/>
         <source>Find peers using DNS lookup (default: 1)</source>
-        <translation>DNSルックアップでピーアを探す(デファルト：1)</translation>
+        <translation>DNSルックアップでピアを探す(デフォルト：1)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync checkpoints policy (default: strict)</source>
-        <translation>同期チェックポイント方針(デファルト：厳しい)</translation>
+        <translation>同期チェックポイント方針(デフォルト：厳しい)</translation>
     </message>
     <message>
         <location line="+83"/>
@@ -2895,7 +2895,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-74"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation>SOCKSプロクシーのバージョンを選択する (4-5、 デファルト: 5)</translation>
+        <translation>SOCKSプロキシのバージョンを選択する (4-5、 デフォルト: 5)</translation>
     </message>
     <message>
         <location line="+41"/>
@@ -2905,7 +2905,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation>デバッガへ追跡とデバッグ情報を送る。</translation>
+        <translation>トレース/デバッグ情報をデバッガへ送る。</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -2925,7 +2925,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>接続のタイムアウトをミリセコンドで指定 (初期値: 5000)</translation>
+        <translation>接続のタイムアウトをミリセカンドで指定 (初期値: 5000)</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2937,17 +2937,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>リスン ポートの割当に UPnP を使用 (初期値: 0)</translation>
+        <translation>リッスン ポートの割当に UPnP を使用 (初期値: 0)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>リスン ポートの割当に UPnP を使用 (初期値: リスン中は1)</translation>
+        <translation>リッスン ポートの割当に UPnP を使用 (初期値: リッスン中は1)</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation>プロクシーでTORヒドゥンサービス(TOR Hidden Services)を接続する(デファルト：-proxyと同じ)</translation>
+        <translation>プロキシでTORヒドゥンサービス(TOR Hidden Services)を接続する(デフォルト：-proxyと同じ)</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -2957,7 +2957,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+47"/>
         <source>Verifying database integrity...</source>
-        <translation>データベースの保全性を確認最中...</translation>
+        <translation>データベースの保全性を確認中...</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -3002,9 +3002,9 @@ for example: alertnotify=echo %%s | mail -s &quot;LoanOrLease Alert&quot; admin@
 このランダムパスワードのおすすめです：
 rpcuser=loanorleaserpc
 rpcpassword=%s
-(このパサワードを覚えなくても大丈夫です)
+(このパスワードを覚えなくても大丈夫です)
 ユーザ名とパスワードは同じであってはなりません。
-ファイルは存在しないばいは、所有者が読み取り可能な専用のファイルを作成してください。
+ファイルは存在しない場合は、所有者が読み取り可能な専用のファイルを作成してください。
 問題のことを知らせるために、alertnotifyの設定を有効にしたほうがいいです。
 例：alertnotify=echo %%s | mail -s &quot;LoanOrLease警告&quot; admin@foo.com
 </translation>
@@ -3012,17 +3012,17 @@ rpcpassword=%s
     <message>
         <location line="+51"/>
         <source>Find peers using internet relay chat (default: 0)</source>
-        <translation>インターネットリレーチャット(IRC)でピアアを探す。(デファルト:1 {0}?)</translation>
+        <translation>インターネットリレーチャット(IRC)でピアを探す。(デフォルト:1 {0}?)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation>他のノードと時刻の同期する。確な時刻のコンピューターのばい、無効する。例：NTP同期設定有効ある(デファルト：1)</translation>
+        <translation>他のノードと時刻の同期する。例えばNTP同期でシステムの時刻が正確な場合、無効にする。(デフォルト：1)</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
-        <translation>処理を作ると、この額より少ない数字を無視する (デファルト：0.01)</translation>
+        <translation>処理を作ると、この額より少ない数字を無視する (デフォルト：0.01)</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -3047,12 +3047,12 @@ rpcpassword=%s
     <message>
         <location line="+3"/>
         <source>Require a confirmations for change (default: 0)</source>
-        <translation>変更するために、確認を必要とする (デファルト：0)</translation>
+        <translation>変更するために、確認を必要とする (デフォルト：0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation>処理のスクリプトコマンドで標準的なPUSHオペレータを施行する(デファルト：1)</translation>
+        <translation>処理のスクリプトコマンドで標準的なPUSHオペレータを施行する(デフォルト：1)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3077,12 +3077,12 @@ rpcpassword=%s
     <message>
         <location line="+2"/>
         <source>How many blocks to check at startup (default: 2500, 0 = all)</source>
-        <translation>スタートのときに、いくつのブロックを調べます　(デファルト：2500、 0 = すべて )</translation>
+        <translation>スタートのときに、いくつのブロックを調べます　(デフォルト：2500、 0 = すべて )</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation>ブロック検証の徹底の程度　(0-6 、デファルト：1)</translation>
+        <translation>ブロック検証の徹底の程度　(0-6 、デフォルト：1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3112,7 +3112,7 @@ rpcpassword=%s
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation>エラー：アンロックされたウォレットはステーキングためだけで、処理を作られない。</translation>
+        <translation>エラー：ウォレットはステーキングのためだけにアンロックされているため、トランザクションを作成できません。</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -3132,7 +3132,7 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Cannot obtain a lock on data directory %s.  LoanOrLease is probably already running.</source>
-        <translation>%sディレクトリにをロックオンできない。LoanOrLeaseQTは、もう発行してるでしょう。</translation>
+        <translation>%sディレクトリをロックできません。LoanOrLeaseQTは実行中の可能性があります。</translation>
     </message>
     <message>
         <location line="-98"/>
@@ -3142,7 +3142,7 @@ rpcpassword=%s
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>このコンピュータの %s にバインドすることができません (バインドが返したエラーは %d, %s)</translation>
+        <translation>このコンピュータの %s にバインドできません (バインドが返したエラーは %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3177,7 +3177,7 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Wallet needed to be rewritten: restart LoanOrLease to complete</source>
-        <translation>ウォレットのデータをリライトしなければならい：LoanOrLeaseQTをリスタートしてください</translation>
+        <translation>ウォレットを書き換える必要があるため、LoanOrLeaseQTを再起動してください</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3217,7 +3217,7 @@ rpcpassword=%s
     <message>
         <location line="+44"/>
         <source>Error: could not start node</source>
-        <translation>エラー：ノードの開始ができなった</translation>
+        <translation>エラー：ノードの開始ができなかった</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -3247,7 +3247,7 @@ rpcpassword=%s
     <message>
         <location line="+122"/>
         <source>Unable to bind to %s on this computer. LoanOrLease is probably already running.</source>
-        <translation>このコンピューターで%sに結ぶことができなかった。LoanOrLeaseQTは、もう発行してるでしょう。</translation>
+        <translation>このコンピューターの%sにバインドできません。LoanOrLeaseQTは実行中の可能性があります。</translation>
     </message>
     <message>
         <location line="-97"/>
